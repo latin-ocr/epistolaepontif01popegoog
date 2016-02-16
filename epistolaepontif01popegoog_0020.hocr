@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./epistolaepontif01popegoog/epistolaepontif01popegoog_0020.png"; bbox 0 0 3396 5330; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 693 4683 1215 4736">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 693 4683 1215 4736">
+     <span class='ocr_line' id='line_1_1' title="bbox 693 4683 1215 4736; baseline 0.01 -14"><span class='ocrx_word' id='word_1_1' title='bbox 693 4683 761 4734; x_wconf 84' lang='lat' dir='ltr'><strong>Typis</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 776 4685 798 4723; x_wconf 90' lang='lat' dir='ltr'>M</span> <span class='ocrx_word' id='word_1_3' title='bbox 804 4686 900 4733; x_wconf 74' lang='lat' dir='ltr'>etzger</span> <span class='ocrx_word' id='word_1_4' title='bbox 914 4687 931 4726; x_wconf 61' lang='grc' dir='ltr'><strong><em>ἅ</em></strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 947 4685 1047 4736; x_wconf 74' lang='lat' dir='ltr'><strong>wittig</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1060 4687 1215 4736; x_wconf 84' lang='lat' dir='ltr'>Lipsiensium.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1702 5330">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1702 5330">
+     <span class='ocr_line' id='line_1_2' title="bbox 0 0 1702 5330; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 0 0 1702 5330; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

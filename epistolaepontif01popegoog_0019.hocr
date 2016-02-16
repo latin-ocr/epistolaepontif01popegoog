@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./epistolaepontif01popegoog/epistolaepontif01popegoog_0019.png"; bbox 0 0 3396 5330; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 443 756 1023 893">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 443 756 1023 893">
+     <span class='ocr_line' id='line_1_1' title="bbox 443 756 1023 893; baseline 0 -6"><span class='ocrx_word' id='word_1_1' title='bbox 443 756 1023 893; x_wconf 85' lang='lat' dir='ltr'>EPISTOLAE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 47 1176 1412 1356">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 47 1176 1412 1356">
+     <span class='ocr_line' id='line_1_2' title="bbox 47 1176 1412 1356; baseline 0.003 -7"><span class='ocrx_word' id='word_1_2' title='bbox 47 1176 694 1356; x_wconf 82' lang='lat' dir='ltr'><strong>PONTIFICUM</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 739 1179 1412 1356; x_wconf 75' lang='lat' dir='ltr'>ROMANORUM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 558 1647 907 1744">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 558 1647 907 1744">
+     <span class='ocr_line' id='line_1_3' title="bbox 558 1647 907 1744; baseline 0 -1"><span class='ocrx_word' id='word_1_4' title='bbox 558 1647 631 1743; x_wconf 91' lang='lat' dir='ltr'><strong>IN</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 642 1647 907 1744; x_wconf 83' lang='lat' dir='ltr'><strong>EDITAE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 492 2932 965 3008">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 492 2932 965 3008">
+     <span class='ocr_line' id='line_1_4' title="bbox 492 2932 965 3008; baseline -0.008 0"><span class='ocrx_word' id='word_1_6' title='bbox 492 2934 528 3008; x_wconf 79' lang='lat' dir='ltr'><strong>S.</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 557 2932 965 3008; x_wconf 86' lang='lat' dir='ltr'>LOEWENFELD</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1702 5330">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1702 5330">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1702 5330; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 1702 5330; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
